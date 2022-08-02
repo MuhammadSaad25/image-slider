@@ -8,13 +8,12 @@ body{
     min-height: 100vh;
     display: flex;
     justify-content: center;
-    /* align-items: center; */
     background-color: #1d1d1d;
 }
 
 img{
-    width: 100vw;
-    height: 500px;
+    width: 1000px;
+    height: 400px;
     object-fit: cover;
     transition: 0.3s;
 }
